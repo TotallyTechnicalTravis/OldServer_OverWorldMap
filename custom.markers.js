@@ -404,7 +404,7 @@ UnminedCustomMarkers = {
                                                         {
             x: -1328,
             z: 1290,
-            image: "custom.pin.png",
+            image: "santa-claus-icon.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
             text: "Christmas Village",
