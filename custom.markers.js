@@ -430,7 +430,7 @@ UnminedCustomMarkers = {
             z: -780,
             image: "grimmy_base_icon.png",
             imageAnchor: [0.5, 1],
-            imageScale: 0.1,
+            imageScale: 0.5,
             text: "Grimmy's Swamp",
             textColor: "magenta", 
             offsetX: 0,
