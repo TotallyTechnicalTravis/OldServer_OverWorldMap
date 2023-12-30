@@ -432,7 +432,7 @@ UnminedCustomMarkers = {
             imageAnchor: [0.5, 1],
             imageScale: 0.2,
             text: "Grimmy's Swamp",
-            textColor: "purple", 
+            textColor: "#5D3FD3", 
             offsetX: 0,
             offsetY: 20,
             font: "bold 15px Calibri,sans serif",
