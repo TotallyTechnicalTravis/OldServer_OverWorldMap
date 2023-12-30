@@ -425,6 +425,18 @@ UnminedCustomMarkers = {
             offsetY: 20,
             font: "bold 15px Calibri,sans serif",
         },
+                                                                {
+            x: 3580,
+            z: -780,
+            image: "custom.pin.png",
+            imageAnchor: [0.5, 1],
+            imageScale: 0.2,
+            text: "Grimmy's Swamp",
+            textColor: "purple", 
+            offsetX: 0,
+            offsetY: 20,
+            font: "bold 15px Calibri,sans serif",
+        },
         // do not delete the following two closing brackets
     ]
 }
