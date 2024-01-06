@@ -266,7 +266,7 @@ UnminedCustomMarkers = {
             image: "PlayerBase.svg",
             imageAnchor: [0.5, 1],
             imageScale: 0.4,
-            text: "Orcah's Base",
+            text: "Orchah's Base",
             textColor: "white",
             textStrokeColor: "black",
             textStrokeWidth: 2,  
