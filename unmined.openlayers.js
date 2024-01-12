@@ -148,7 +148,7 @@ class Unmined {
 
             ],
             view: new ol.View({
-                center: [2800, 200],
+                center: [3200, 200],
                 extent: mapExtent,
                 projection: viewProjection,
                 resolutions: tileGrid.getResolutions(),
