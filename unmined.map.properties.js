@@ -8,11 +8,11 @@ var UnminedMapProperties = {
     minRegionZ: -85,
     maxRegionX: 93,
     maxRegionZ: 34,
-    worldName: "My World (imported)",
+    worldName: "Old Server OverWorld",
     background: "",
     markers: new Array(),
     enableGrid: false,
     showGrid: false,
-    centerX: 0,
-    centerZ: 0
+    centerX: 3064,
+    centerZ: 4
 }
