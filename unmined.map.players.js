@@ -2,6 +2,7 @@
 var UnminedPlayers = [
   {
     "name": "DonJuanDoja",
+    "image": "MrNetherite.jpg",
     "x": 3221.75146484375,
     "z": -296.17034912109375
   }
