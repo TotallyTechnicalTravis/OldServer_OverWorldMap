@@ -186,8 +186,8 @@ class Unmined {
         denseGrid: false,
         showMarkers: true,
         showPlayers: true,
-        centerX: 3064,
-        centerZ: 4
+        centerX: 0,
+        centerZ: 0
     }
 
     constructor(mapElement, options, regions) {
